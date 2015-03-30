@@ -1,2 +1,2 @@
 # hello-world
-Testing and playing.
+Testing and playing, this repository is for code created during tutorials.
